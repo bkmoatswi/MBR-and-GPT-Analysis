@@ -5,7 +5,7 @@
 The main goal of this room is to understand and analyze the differences between MBR (Master Boot Record) and GPT (GUID Partition Table) partitioning schemes on disks. I learn how to identify and work with both types of partition tables, explored their structure, and understanding their advantages and limitations
 
 
-# Skills Learned
+## Skills Learned
  
 I Learned how MBR and GPT partition tables are structured.
 
